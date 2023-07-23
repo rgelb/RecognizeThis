@@ -19,7 +19,6 @@ if (match == null) {
     Console.WriteLine(match.Id);
 }
 
-
 class RecognizeFile
 {
     private readonly IModelService modelService = new InMemoryModelService(); // store fingerprints in RAM
