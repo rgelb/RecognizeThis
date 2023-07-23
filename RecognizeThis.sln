@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeThis", "Fast Console3\RecognizeThis.csproj", "{17166D85-96FF-4A34-A654-006A66E109AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeThis", "RecognizeThis.csproj", "{17166D85-96FF-4A34-A654-006A66E109AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

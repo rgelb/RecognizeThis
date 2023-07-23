@@ -20,7 +20,6 @@ if (match == null) {
 }
 
 
-
 class RecognizeFile
 {
     private readonly IModelService modelService = new InMemoryModelService(); // store fingerprints in RAM
